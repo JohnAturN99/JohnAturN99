@@ -2,7 +2,7 @@
 - 👀 I’m interested in Airplane, UAV and Military Technology 
 - 🌱 I’m currently underoing my undergraduate in University Of Southampton, Aeronautics and Astronautic Engineering
 - 💞️ I’m looking to collaborate on UAV
-- 📫 How to reach me . [Here]
+- 📫 How to reach me . IG eng.giner
 
 <!---
 JohnAturN99/JohnAturN99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
